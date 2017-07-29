@@ -1,2 +1,2 @@
 # FinanceStats
-just a small project to lern smth'bout app developement.. so it is not interesting for people who are not me ;)
+just a small project to learn something about app development.. so it may not be interesting for people who are not me;)
